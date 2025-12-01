@@ -29,6 +29,4 @@ While the current dashboard provides a high-level overview, I plan to revisit th
 ## 🤝 Acknowledgements
 Special thanks to **EduLinking Career** and **Dr. Karim Mohammed Rezaul** for the guidance on this assignment.
 
----
-**Connect with me:**
-[LinkedIn] | [Medium Article]
+
